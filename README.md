@@ -1,4 +1,6 @@
 #liveMediaStreamer - 0.2
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgerardcl%2FliveMediaStreamer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgerardcl%2FliveMediaStreamer?ref=badge_shield)
+
 
 Live Media Streamer (LMS) is a real-time streaming multimedia framework. 
 
@@ -15,3 +17,7 @@ For extended usefull documentation about LMS and related softwares just follow n
 
 Thank you for downloading Live Media Streamer. For any doubt, question or suggestion please contact to: support.ua@i2cat.net
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgerardcl%2FliveMediaStreamer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgerardcl%2FliveMediaStreamer?ref=badge_large)
